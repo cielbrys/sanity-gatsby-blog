@@ -3,11 +3,11 @@
 
   --color-black: #202123;
   --color-dark-gray: #32373e;
-  --color-gray: #697a90;
-  --color-light-gray: #b4bcc7;
-  --color-very-light-gray: #e7ebed;
-  --color-white: #fff;
-  --color-accent: #156dff;
+  --color-gray: #ffffff;
+  --color-light-gray: #ffffff;
+  --color-very-light-gray: #ffffff;
+  --color-white: rgb(138, 178, 252);
+  --color-accent: #fd9456;
 
   /* Typography */
   --unit: 16;
